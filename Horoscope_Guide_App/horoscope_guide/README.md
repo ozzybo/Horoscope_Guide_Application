@@ -1,6 +1,6 @@
 # horoscope_guide
 
-A new Flutter project.
+Horoscope application is an application where you can get information about horoscopes in a simple way.
 
 ## Getting Started
 
